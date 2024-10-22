@@ -1,1 +1,0 @@
-# mimyrtek.github.io
