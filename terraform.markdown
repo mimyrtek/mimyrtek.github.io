@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Terraform"
+title: Terraform
 permalink: /terraform
 
 
